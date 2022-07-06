@@ -8,7 +8,7 @@
 .container {
   width: 100%;
   height: 700px;
-  background-image: url("/Project-SpaceX-Starship/assets/img/STARSHIP-1360.webp");
+  background-image: url("/assets/img/STARSHIP-1360.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -49,7 +49,7 @@ main .container-flex .img-starship {
   width: 400px;
   height: 300px;
   margin-top: 200px;
-  background-image: url("/Project-SpaceX-Starship/assets/img/starshipPhotoSmallMoreSmall.webp");
+  background-image: url("/assets/img/starshipPhotoSmallMoreSmall.webp");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -78,6 +78,6 @@ main .defi-container p {
 .background-3 {
   width: 100%;
   height: 670px;
-  background-image: url("/Project-SpaceX-Starship/assets/img/STARSHIP-b3.webp");
+  background-image: url("/assets/img/STARSHIP-b3.webp");
   background-size: cover;
 }/*# sourceMappingURL=style.css.map */
